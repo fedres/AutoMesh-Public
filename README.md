@@ -27,7 +27,7 @@ AutoMesh automatically generates optimized CFD mesh configurations from CAD geom
 
 ```bash
 # macOS (Apple Silicon)
-wget https://github.com/karthikt/AutoMesh/releases/latest/download/automesh-1.0.0-macos-arm64.tar.gz
+wget https://github.com/fedres/AutoMesh-Public/releases/latest/download/automesh-1.0.0-macos-arm64.tar.gz
 tar -xzf automesh-1.0.0-macos-arm64.tar.gz
 ./automesh-1.0.0-macos-arm64/automesh --version
 ```
@@ -35,7 +35,7 @@ tar -xzf automesh-1.0.0-macos-arm64.tar.gz
 **Or Install from Source:**
 
 ```bash
-git clone https://github.com/karthikt/AutoMesh.git
+git clone https://github.com/fedres/AutoMesh-Public.git
 cd AutoMesh
 pip install -e .
 automesh --version

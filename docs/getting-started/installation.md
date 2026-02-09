@@ -7,7 +7,7 @@ The easiest way to get started with AutoMesh is to download the pre-built binary
 ### macOS (Apple Silicon)
 
 ```bash
-wget https://github.com/karthikt/AutoMesh/releases/latest/download/automesh-1.0.0-macos-arm64.tar.gz
+wget https://github.com/fedres/AutoMesh-Public/releases/latest/download/automesh-1.0.0-macos-arm64.tar.gz
 tar -xzf automesh-1.0.0-macos-arm64.tar.gz
 cd automesh-1.0.0-macos-arm64
 ./automesh --version
@@ -16,7 +16,7 @@ cd automesh-1.0.0-macos-arm64
 ### macOS (Intel)
 
 ```bash
-wget https://github.com/karthikt/AutoMesh/releases/latest/download/automesh-1.0.0-macos-x86_64.tar.gz
+wget https://github.com/fedres/AutoMesh-Public/releases/latest/download/automesh-1.0.0-macos-x86_64.tar.gz
 tar -xzf automesh-1.0.0-macos-x86_64.tar.gz
 cd automesh-1.0.0-macos-x86_64
 ./automesh --version
@@ -25,7 +25,7 @@ cd automesh-1.0.0-macos-x86_64
 ### Linux
 
 ```bash
-wget https://github.com/karthikt/AutoMesh/releases/latest/download/automesh-1.0.0-linux-x86_64.tar.gz
+wget https://github.com/fedres/AutoMesh-Public/releases/latest/download/automesh-1.0.0-linux-x86_64.tar.gz
 tar -xzf automesh-1.0.0-linux-x86_64.tar.gz
 cd automesh-1.0.0-linux-x86_64
 ./automesh --version
