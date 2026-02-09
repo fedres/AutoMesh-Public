@@ -15,12 +15,12 @@ navigation:
   - title: API
     url: /technical/api-reference
   - title: GitHub
-    url: https://github.com/karthikt/AutoMesh
+    url: https://github.com/fedres/AutoMesh-Public
 
 # Footer
 footer_links:
   - title: GitHub
-    url: https://github.com/karthikt/AutoMesh
+    url: https://github.com/fedres/AutoMesh-Public
   - title: Issues
     url: https://github.com/karthikt/AutoMesh/issues
   - title: License
