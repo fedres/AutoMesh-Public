@@ -1,0 +1,27 @@
+theme: jekyll-theme-cayman
+title: AutoMesh
+description: Automatic CFD Mesh Refinement for OpenFOAM
+show_downloads: true
+google_analytics: 
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Docs
+    url: /getting-started/installation
+  - title: Benchmarks
+    url: /benchmarks
+  - title: API
+    url: /technical/api-reference
+  - title: GitHub
+    url: https://github.com/karthikt/AutoMesh
+
+# Footer
+footer_links:
+  - title: GitHub
+    url: https://github.com/karthikt/AutoMesh
+  - title: Issues
+    url: https://github.com/karthikt/AutoMesh/issues
+  - title: License
+    url: https://github.com/karthikt/AutoMesh/blob/main/LICENSE

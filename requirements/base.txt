@@ -1,0 +1,6 @@
+numpy
+trimesh
+scipy
+# open3d  # Commented out for Python 3.14 compatibility
+# vtk     # Commented out for Python 3.14 compatibility
+# PyQt6   # Commented out for Python 3.14 compatibility
